@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Glow</title>
+    <title>GLOW Organizasyon</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -31,7 +32,7 @@
 </head>
 <body>
     <header>
-        <h1>Hoş Geldiniz!</h1>
+        <h1>GLOW Organizasyon</h1>
         <p>Profesyonel organizasyon hizmetleri sunuyoruz.</p>
     </header>
     <div class="container">
